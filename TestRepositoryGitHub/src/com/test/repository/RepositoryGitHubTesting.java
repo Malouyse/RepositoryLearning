@@ -29,7 +29,7 @@ public class RepositoryGitHubTesting {
             	
             	int num2 = 5;
             	
-            	
+            	System.out.println(num2);
 	
             }
         }
